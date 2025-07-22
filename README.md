@@ -48,10 +48,7 @@ git clone https://github.com/Okiled/Backtest-Bitcoin-using-ai.git
 cd Backtest-Bitcoin-using-ai
 ```
 
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
+2. Install dependencies
 
 3. (Optional) GPU setup for faster training:
 ```bash
