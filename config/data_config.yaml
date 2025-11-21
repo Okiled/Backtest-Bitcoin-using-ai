@@ -1,0 +1,6 @@
+start_date: '2018-01-01'
+end_date: '2024-01-01'
+symbol: 'BTC-USD'
+interval: '1d'
+train_ratio: 0.7
+val_ratio: 0.15

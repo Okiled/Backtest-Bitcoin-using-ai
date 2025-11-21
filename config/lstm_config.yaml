@@ -1,0 +1,9 @@
+look_back: 30
+hidden_size: 64
+num_layers: 2
+dropout: 0.2
+learning_rate: 0.001
+batch_size: 32
+epochs: 20
+patience: 3
+weight_decay: 1e-4

@@ -1,0 +1,3 @@
+transaction_cost: 0.001
+slippage: 0.0005
+initial_cash: 10000
