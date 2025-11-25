@@ -1,0 +1,8 @@
+learning_rate: 0.0003
+gamma: 0.99
+n_steps: 128
+ent_coef: 0.0
+vf_coef: 0.5
+clip_range: 0.2
+batch_size: 64
+total_timesteps: 1000

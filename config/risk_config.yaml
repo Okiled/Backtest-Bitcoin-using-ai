@@ -1,0 +1,6 @@
+max_leverage: 2.0
+max_position_btc: 2.0
+max_drawdown: 0.2
+daily_loss_limit: 500.0
+cvar_confidence: 0.95
+target_vol: 0.5
